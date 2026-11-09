@@ -1,0 +1,6 @@
+# 使用者自己的规矩（禁用词、产品口径、价格、音色、形象、本机路径），只留在本机
+local/
+
+# 依赖
+scripts/node_modules/
+node_modules/

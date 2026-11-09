@@ -1,0 +1,12 @@
+{
+  "name": "ad-motion-video",
+  "version": "0.1.0",
+  "category": "Motion Graphics / Short-form Video Ads",
+  "description": "Make vertical feed video ads (1080x1920, 25-35 s): digital-human hook and price shots around code-rendered middle pages, in a four-page structure (value-contrast hook, install/usage steps, selling-point wall, price). Includes reference-video beat/motion analysis, a 40-style library for re-skinning, same-account similarity pre-checks and technical QA. Private rules live in an untracked local/ folder. Adapted from motion-showreel (MIT).",
+  "upstream": "https://github.com/ConardLi/garden-skills/tree/08150e750bdc8c8dc452fb43c8ef5221b71c4308/skills/motion-showreel",
+  "license": "MIT",
+  "compat": [
+    "claude-code",
+    "codex-cli"
+  ]
+}
